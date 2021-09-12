@@ -30,10 +30,7 @@ public class App
                 enteredNum = 1;
             }
             else
-            {
                 System.out.print("You must enter a number.\n");
-                enteredNum = 0;
-            }
 
             input.nextLine();
         }
@@ -50,10 +47,7 @@ public class App
                 enteredNum = 1;
             }
             else
-            {
                 System.out.print("You must enter a number.\n");
-                enteredNum = 0;
-            }
 
             input.nextLine();
         }
@@ -70,10 +64,7 @@ public class App
                 enteredNum = 1;
             }
             else
-            {
                 System.out.print("You must enter a number.\n");
-                enteredNum = 0;
-            }
 
             input.nextLine();
         }
@@ -90,10 +81,7 @@ public class App
                 enteredNum = 1;
             }
             else
-            {
                 System.out.print("You must enter a number.\n");
-                enteredNum = 0;
-            }
 
             input.nextLine();
         }
